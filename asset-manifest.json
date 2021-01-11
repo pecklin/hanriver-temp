@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hanriver-temp/static/css/main.a14f9847.chunk.css",
+    "main.js": "/hanriver-temp/static/js/main.adcb80f4.chunk.js",
+    "main.js.map": "/hanriver-temp/static/js/main.adcb80f4.chunk.js.map",
+    "runtime-main.js": "/hanriver-temp/static/js/runtime-main.14f844a4.js",
+    "runtime-main.js.map": "/hanriver-temp/static/js/runtime-main.14f844a4.js.map",
+    "static/js/2.a1961618.chunk.js": "/hanriver-temp/static/js/2.a1961618.chunk.js",
+    "static/js/2.a1961618.chunk.js.map": "/hanriver-temp/static/js/2.a1961618.chunk.js.map",
+    "static/js/3.318e20bb.chunk.js": "/hanriver-temp/static/js/3.318e20bb.chunk.js",
+    "static/js/3.318e20bb.chunk.js.map": "/hanriver-temp/static/js/3.318e20bb.chunk.js.map",
+    "index.html": "/hanriver-temp/index.html",
+    "static/css/main.a14f9847.chunk.css.map": "/hanriver-temp/static/css/main.a14f9847.chunk.css.map",
+    "static/js/2.a1961618.chunk.js.LICENSE.txt": "/hanriver-temp/static/js/2.a1961618.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/hanriver-temp/static/media/hanriver.1f366081.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14f844a4.js",
+    "static/js/2.a1961618.chunk.js",
+    "static/css/main.a14f9847.chunk.css",
+    "static/js/main.adcb80f4.chunk.js"
+  ]
+}
